@@ -1,7 +1,13 @@
-## Hi there 👋
+### Hi there, I'm MinGyu Kim👋
++ Personal website:  
++ [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EA%B9%80-b4010729b/)
++ [Portfoilo](https://powerful-action-990.notion.site/Portfoilo-01b547f0e37b4d7cb1d070178cdff090?pvs=74)
+  
++ I am preparing a review summary for the papers I have read. 🌱  
+Here is  the link: [Research paper](https://powerful-action-990.notion.site/Research-2e84be56d14d807691daecbca9f057c1?pvs=74)
 
 <!--
-**MINQ6/MINQ6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LeeHakHo/LeeHakHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +18,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..
