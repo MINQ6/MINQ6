@@ -4,7 +4,7 @@
 + [Portfoilo](https://powerful-action-990.notion.site/Portfoilo-01b547f0e37b4d7cb1d070178cdff090?pvs=74)
   
 + I am preparing a review summary for the papers I have read. 🌱  
-Here is  the link: [Research paper](https://powerful-action-990.notion.site/Research-2e84be56d14d807691daecbca9f057c1?pvs=74)]
+Here is  the link: [Research paper](https://powerful-action-990.notion.site/2e94be56d14d809fb866edca557fd3cd?v=2e94be56d14d815882db000ccb96259b&source=copy_link)]
 
 <!--
 **LeeHakHo/LeeHakHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
